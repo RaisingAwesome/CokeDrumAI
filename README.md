@@ -21,3 +21,6 @@ To get the DarkSky.net working, you need to create your own account.  I've comme
 Note:  per Microsoft, the ADC for analog input is still in Beta.  So, my code traps for its anomolies it presents.  You'll need to make some tweaks per the following page:
 
 https://docs.microsoft.com/en-us/azure-sphere/app-development/use-beta
+
+## Thoughts
+Most of the magic happens in i2c.c.  I added the SoftPWM code and TFMini code there, too.  To understand all my tweaks to the original starter kit demo code, go to the initi2c function and starter scrolling down.  You'll see my comments pop in to give you ideas on how to add your own i2c devices.  Also, search out readDistance().  It's what talks to the TFMini directly within the i2c.c code.
