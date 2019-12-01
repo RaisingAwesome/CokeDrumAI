@@ -24,3 +24,7 @@ https://docs.microsoft.com/en-us/azure-sphere/app-development/use-beta
 
 ## Thoughts
 Most of the magic happens in i2c.c.  I added the SoftPWM code and TFMini code there, too.  To understand all my tweaks to the original starter kit demo code, go to the initi2c function and starter scrolling down.  You'll see my comments pop in to give you ideas on how to add your own i2c devices.  Also, search out readDistance().  It's what talks to the TFMini directly within the i2c.c code.
+
+-Sean J. Miller
+
+raisingawesome@gmail.com
