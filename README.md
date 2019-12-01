@@ -9,6 +9,9 @@ https://www.element14.com/community/groups/azuresphere/blog/2019/10/17/avnet-azu
 ## Hackster Project Page:
 https://www.hackster.io/raisingawesome/avnet-azure-sphere-coke-drum-health-monitoring-iot-ai-d3f47b
 
+## Project Video
+https://www.youtube.com/watch?v=z-D5BOZKc5Y
+
 ## Makers and Students
 So, if you are a maker who just wants to explore cloud based data storage and get an I2C, analog read, and Soft PWM project on the Azure Sphere.  Or if you are a student wanting help getting started on an assignment - you've come to the right place.
 
