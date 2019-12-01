@@ -9,12 +9,12 @@ https://www.element14.com/community/groups/azuresphere/blog/2019/10/17/avnet-azu
 ## Hackster Project Page:
 https://www.hackster.io/raisingawesome/avnet-azure-sphere-coke-drum-health-monitoring-iot-ai-d3f47b
 
-# Educators
+## Educators
 
 I must admit, this is one of the more challenging builds.  Not because the card does not have good capabilities, but rather because it takes a lot of code to pull off a small project.  In addition, you will take on some financial charges after your Free Trail for Microsoft Azure's services is over.  So, you have to be careful in that department.
 
 
-# Makers
+## Makers
 
 So, if you are a maker who just wants to explore cloud based data storage and get an I2C, analog read, and Soft PWM project on the Azure Sphere - you've come to the right place.
 
